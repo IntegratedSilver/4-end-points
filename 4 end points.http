@@ -1,0 +1,6 @@
+@_4_end_points_HostAddress = http://localhost:5081
+
+GET {{_4_end_points_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

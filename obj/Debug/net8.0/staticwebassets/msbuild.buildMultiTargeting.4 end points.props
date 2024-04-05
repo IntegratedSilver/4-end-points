@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\4 end points.props" />
+</Project>

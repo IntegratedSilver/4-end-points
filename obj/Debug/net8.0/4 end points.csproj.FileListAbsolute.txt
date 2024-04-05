@@ -1,0 +1,33 @@
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\appsettings.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\4 end points.exe
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\4 end points.deps.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\4 end points.runtimeconfig.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\4 end points.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\4 end points.pdb
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.csproj.AssemblyReference.cache
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.AssemblyInfoInputs.cache
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.AssemblyInfo.cs
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.csproj.CoreCompileInputs.cache
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets\msbuild.4 end points.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets\msbuild.build.4 end points.props
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.4 end points.props
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.4 end points.props
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\scopedcss\bundle\4 end points.styles.css
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end po.942A05DE.Up2Date
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\refint\4 end points.dll
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.pdb
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\4 end points.genruntimeconfig.cache
+C:\Users\silve\Documents\Academy Level 2\C#\4 end points\obj\Debug\net8.0\ref\4 end points.dll
